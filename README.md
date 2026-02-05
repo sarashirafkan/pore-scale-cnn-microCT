@@ -45,6 +45,4 @@ All models were developed and tested using Python and standard deep learning lib
 ## 📄 License
 This project is released under the MIT License.
 
-## 📊 Data Availability
-The micro-CT datasets used in this study are available at:
-https://doi.org/10.5281/zenodo.18495318
+
